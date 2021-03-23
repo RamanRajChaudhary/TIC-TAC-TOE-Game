@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/TIC-TAC-TOE-Game/static/css/main.c9864619.chunk.css",
+    "main.js": "/TIC-TAC-TOE-Game/static/js/main.3301a9b7.chunk.js",
+    "main.js.map": "/TIC-TAC-TOE-Game/static/js/main.3301a9b7.chunk.js.map",
+    "runtime-main.js": "/TIC-TAC-TOE-Game/static/js/runtime-main.69870fb2.js",
+    "runtime-main.js.map": "/TIC-TAC-TOE-Game/static/js/runtime-main.69870fb2.js.map",
+    "static/js/2.b541e3b8.chunk.js": "/TIC-TAC-TOE-Game/static/js/2.b541e3b8.chunk.js",
+    "static/js/2.b541e3b8.chunk.js.map": "/TIC-TAC-TOE-Game/static/js/2.b541e3b8.chunk.js.map",
+    "static/js/3.e8dbd133.chunk.js": "/TIC-TAC-TOE-Game/static/js/3.e8dbd133.chunk.js",
+    "static/js/3.e8dbd133.chunk.js.map": "/TIC-TAC-TOE-Game/static/js/3.e8dbd133.chunk.js.map",
+    "index.html": "/TIC-TAC-TOE-Game/index.html",
+    "static/css/main.c9864619.chunk.css.map": "/TIC-TAC-TOE-Game/static/css/main.c9864619.chunk.css.map",
+    "static/js/2.b541e3b8.chunk.js.LICENSE.txt": "/TIC-TAC-TOE-Game/static/js/2.b541e3b8.chunk.js.LICENSE.txt",
+    "static/media/cross.9e3da191.jpg": "/TIC-TAC-TOE-Game/static/media/cross.9e3da191.jpg",
+    "static/media/zero.1fccb490.jpg": "/TIC-TAC-TOE-Game/static/media/zero.1fccb490.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69870fb2.js",
+    "static/js/2.b541e3b8.chunk.js",
+    "static/css/main.c9864619.chunk.css",
+    "static/js/main.3301a9b7.chunk.js"
+  ]
+}
